@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manogna10101
 - 👀 I’m interested in ...data 
-- 🌱 I’m currently learning ...fltter
+- 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ... python
 - 📫 How to reach me ...manognamanu0690@gmail.com
 
